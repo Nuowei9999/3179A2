@@ -1,0 +1,1273 @@
+continent,location,month,new_tests_per_thousand
+Africa,Algeria,1,0.0
+Africa,Algeria,2,0.0
+Africa,Algeria,3,0.0
+Africa,Algeria,4,0.0
+Africa,Algeria,5,0.0
+Africa,Algeria,6,0.0
+Africa,Angola,1,0.0
+Africa,Angola,2,0.0
+Africa,Angola,3,0.0
+Africa,Angola,4,0.0
+Africa,Angola,5,0.0
+Africa,Angola,6,0.0
+Africa,Benin,1,0.0
+Africa,Benin,2,0.0
+Africa,Benin,3,0.0
+Africa,Benin,4,0.0
+Africa,Benin,5,0.0
+Africa,Benin,6,0.0
+Africa,Botswana,1,0.0
+Africa,Botswana,2,0.0
+Africa,Botswana,3,0.0
+Africa,Botswana,4,0.0
+Africa,Botswana,5,0.0
+Africa,Botswana,6,0.0
+Africa,Burkina Faso,1,0.0
+Africa,Burkina Faso,2,0.0
+Africa,Burkina Faso,3,0.0
+Africa,Burkina Faso,4,0.0
+Africa,Burkina Faso,5,0.0
+Africa,Burkina Faso,6,0.0
+Africa,Burundi,1,0.0
+Africa,Burundi,2,0.0
+Africa,Burundi,3,0.0
+Africa,Burundi,4,0.0
+Africa,Burundi,5,0.0
+Africa,Burundi,6,0.0
+Africa,Cameroon,1,0.0
+Africa,Cameroon,2,0.0
+Africa,Cameroon,3,0.0
+Africa,Cameroon,4,0.0
+Africa,Cameroon,5,0.0
+Africa,Cameroon,6,0.0
+Africa,Cape Verde,1,22.91
+Africa,Cape Verde,2,18.3
+Africa,Cape Verde,3,16.99
+Africa,Cape Verde,4,29.11
+Africa,Cape Verde,5,44.02
+Africa,Cape Verde,6,30.27
+Africa,Central African Republic,1,0.0
+Africa,Central African Republic,2,0.0
+Africa,Central African Republic,3,0.0
+Africa,Central African Republic,4,0.0
+Africa,Central African Republic,5,0.0
+Africa,Central African Republic,6,0.0
+Africa,Chad,1,0.0
+Africa,Chad,2,0.0
+Africa,Chad,3,0.0
+Africa,Chad,4,0.0
+Africa,Chad,5,0.0
+Africa,Chad,6,0.0
+Africa,Comoros,1,0.0
+Africa,Comoros,2,0.0
+Africa,Comoros,3,0.0
+Africa,Comoros,4,0.0
+Africa,Comoros,5,0.0
+Africa,Comoros,6,0.0
+Africa,Congo,1,0.0
+Africa,Congo,2,0.0
+Africa,Congo,3,0.0
+Africa,Congo,4,0.0
+Africa,Congo,5,0.0
+Africa,Congo,6,0.0
+Africa,Cote d'Ivoire,1,3.15
+Africa,Cote d'Ivoire,2,2.95
+Africa,Cote d'Ivoire,3,3.32
+Africa,Cote d'Ivoire,4,2.6
+Africa,Cote d'Ivoire,5,1.6
+Africa,Cote d'Ivoire,6,2.29
+Africa,Democratic Republic of Congo,1,0.16
+Africa,Democratic Republic of Congo,2,0.09
+Africa,Democratic Republic of Congo,3,0.04
+Africa,Democratic Republic of Congo,4,0.04
+Africa,Democratic Republic of Congo,5,0.02
+Africa,Democratic Republic of Congo,6,0.46
+Africa,Djibouti,1,0.0
+Africa,Djibouti,2,0.0
+Africa,Djibouti,3,0.0
+Africa,Djibouti,4,0.0
+Africa,Djibouti,5,0.0
+Africa,Djibouti,6,0.0
+Africa,Egypt,1,0.0
+Africa,Egypt,2,0.0
+Africa,Egypt,3,0.0
+Africa,Egypt,4,0.0
+Africa,Egypt,5,0.0
+Africa,Egypt,6,0.0
+Africa,Equatorial Guinea,1,0.0
+Africa,Equatorial Guinea,2,0.0
+Africa,Equatorial Guinea,3,0.0
+Africa,Equatorial Guinea,4,0.0
+Africa,Equatorial Guinea,5,0.0
+Africa,Equatorial Guinea,6,0.0
+Africa,Eritrea,1,0.0
+Africa,Eritrea,2,0.0
+Africa,Eritrea,3,0.0
+Africa,Eritrea,4,0.0
+Africa,Eritrea,5,0.0
+Africa,Eritrea,6,0.0
+Africa,Eswatini,1,0.0
+Africa,Eswatini,2,0.0
+Africa,Eswatini,3,0.0
+Africa,Eswatini,4,0.0
+Africa,Eswatini,5,0.0
+Africa,Eswatini,6,0.0
+Africa,Ethiopia,1,1.37
+Africa,Ethiopia,2,1.48
+Africa,Ethiopia,3,1.87
+Africa,Ethiopia,4,1.89
+Africa,Ethiopia,5,1.22
+Africa,Ethiopia,6,1.22
+Africa,Gabon,1,0.0
+Africa,Gabon,2,0.0
+Africa,Gabon,3,0.0
+Africa,Gabon,4,0.0
+Africa,Gabon,5,0.0
+Africa,Gabon,6,0.0
+Africa,Gambia,1,0.0
+Africa,Gambia,2,0.0
+Africa,Gambia,3,0.0
+Africa,Gambia,4,0.0
+Africa,Gambia,5,0.0
+Africa,Gambia,6,0.0
+Africa,Ghana,1,3.05
+Africa,Ghana,2,3.85
+Africa,Ghana,3,2.56
+Africa,Ghana,4,1.08
+Africa,Ghana,5,1.04
+Africa,Ghana,6,0.96
+Africa,Guinea,1,0.0
+Africa,Guinea,2,0.0
+Africa,Guinea,3,0.0
+Africa,Guinea,4,0.0
+Africa,Guinea,5,0.0
+Africa,Guinea,6,0.0
+Africa,Guinea-Bissau,1,0.0
+Africa,Guinea-Bissau,2,0.0
+Africa,Guinea-Bissau,3,0.0
+Africa,Guinea-Bissau,4,0.0
+Africa,Guinea-Bissau,5,0.0
+Africa,Guinea-Bissau,6,0.0
+Africa,Kenya,1,0.0
+Africa,Kenya,2,0.0
+Africa,Kenya,3,0.0
+Africa,Kenya,4,0.03
+Africa,Kenya,5,0.0
+Africa,Kenya,6,0.0
+Africa,Lesotho,1,0.0
+Africa,Lesotho,2,0.0
+Africa,Lesotho,3,0.0
+Africa,Lesotho,4,0.0
+Africa,Lesotho,5,0.0
+Africa,Lesotho,6,0.0
+Africa,Liberia,1,0.0
+Africa,Liberia,2,0.0
+Africa,Liberia,3,0.0
+Africa,Liberia,4,0.0
+Africa,Liberia,5,0.0
+Africa,Liberia,6,0.0
+Africa,Libya,1,13.78
+Africa,Libya,2,8.95
+Africa,Libya,3,12.54
+Africa,Libya,4,12.69
+Africa,Libya,5,10.33
+Africa,Libya,6,13.4
+Africa,Madagascar,1,0.0
+Africa,Madagascar,2,0.0
+Africa,Madagascar,3,0.32
+Africa,Madagascar,4,1.41
+Africa,Madagascar,5,0.69
+Africa,Madagascar,6,0.34
+Africa,Malawi,1,0.0
+Africa,Malawi,2,0.0
+Africa,Malawi,3,0.0
+Africa,Malawi,4,0.0
+Africa,Malawi,5,0.0
+Africa,Malawi,6,0.24
+Africa,Mali,1,0.0
+Africa,Mali,2,0.0
+Africa,Mali,3,0.0
+Africa,Mali,4,0.0
+Africa,Mali,5,0.0
+Africa,Mali,6,0.0
+Africa,Mauritania,1,0.25
+Africa,Mauritania,2,0.14
+Africa,Mauritania,3,0.0
+Africa,Mauritania,4,0.0
+Africa,Mauritania,5,0.0
+Africa,Mauritania,6,0.0
+Africa,Mauritius,1,0.0
+Africa,Mauritius,2,0.0
+Africa,Mauritius,3,0.0
+Africa,Mauritius,4,0.0
+Africa,Mauritius,5,0.0
+Africa,Mauritius,6,0.0
+Africa,Morocco,1,11.99
+Africa,Morocco,2,6.27
+Africa,Morocco,3,7.66
+Africa,Morocco,4,6.73
+Africa,Morocco,5,6.49
+Africa,Morocco,6,7.82
+Africa,Mozambique,1,2.13
+Africa,Mozambique,2,2.46
+Africa,Mozambique,3,1.8
+Africa,Mozambique,4,1.15
+Africa,Mozambique,5,0.69
+Africa,Mozambique,6,1.23
+Africa,Namibia,1,21.01
+Africa,Namibia,2,14.34
+Africa,Namibia,3,17.07
+Africa,Namibia,4,15.42
+Africa,Namibia,5,13.2
+Africa,Namibia,6,35.35
+Africa,Niger,1,0.0
+Africa,Niger,2,0.0
+Africa,Niger,3,0.0
+Africa,Niger,4,0.0
+Africa,Niger,5,0.0
+Africa,Niger,6,0.0
+Africa,Nigeria,1,0.91
+Africa,Nigeria,2,0.0
+Africa,Nigeria,3,0.0
+Africa,Nigeria,4,0.0
+Africa,Nigeria,5,0.0
+Africa,Nigeria,6,0.0
+Africa,Rwanda,1,6.61
+Africa,Rwanda,2,6.18
+Africa,Rwanda,3,5.82
+Africa,Rwanda,4,5.67
+Africa,Rwanda,5,3.75
+Africa,Rwanda,6,13.33
+Africa,Saint Helena,2,0.0
+Africa,Saint Helena,3,0.0
+Africa,Saint Helena,4,0.0
+Africa,Saint Helena,5,0.0
+Africa,Sao Tome and Principe,1,0.0
+Africa,Sao Tome and Principe,2,0.0
+Africa,Sao Tome and Principe,3,0.0
+Africa,Sao Tome and Principe,4,0.0
+Africa,Sao Tome and Principe,5,0.0
+Africa,Sao Tome and Principe,6,0.0
+Africa,Senegal,1,3.45
+Africa,Senegal,2,3.6
+Africa,Senegal,3,2.95
+Africa,Senegal,4,2.43
+Africa,Senegal,5,2.31
+Africa,Senegal,6,2.64
+Africa,Seychelles,1,0.0
+Africa,Seychelles,2,0.0
+Africa,Seychelles,3,0.0
+Africa,Seychelles,4,0.0
+Africa,Seychelles,5,0.0
+Africa,Seychelles,6,0.0
+Africa,Sierra Leone,1,0.0
+Africa,Sierra Leone,2,0.0
+Africa,Sierra Leone,3,0.0
+Africa,Sierra Leone,4,0.0
+Africa,Sierra Leone,5,0.0
+Africa,Sierra Leone,6,0.0
+Africa,Somalia,1,0.0
+Africa,Somalia,2,0.0
+Africa,Somalia,3,0.0
+Africa,Somalia,4,0.0
+Africa,Somalia,5,0.0
+Africa,Somalia,6,0.0
+Africa,South Africa,1,27.83
+Africa,South Africa,2,13.31
+Africa,South Africa,3,13.35
+Africa,South Africa,4,12.91
+Africa,South Africa,5,16.25
+Africa,South Africa,6,25.05
+Africa,South Sudan,1,0.13
+Africa,South Sudan,2,0.98
+Africa,South Sudan,3,0.5
+Africa,South Sudan,4,0.9
+Africa,South Sudan,5,0.3
+Africa,South Sudan,6,0.0
+Africa,Sudan,1,0.0
+Africa,Sudan,2,0.0
+Africa,Sudan,3,0.0
+Africa,Sudan,4,0.0
+Africa,Sudan,5,0.0
+Africa,Sudan,6,0.0
+Africa,Tanzania,1,0.0
+Africa,Tanzania,2,0.0
+Africa,Tanzania,3,0.0
+Africa,Tanzania,4,0.0
+Africa,Tanzania,5,0.0
+Africa,Tanzania,6,0.0
+Africa,Togo,1,3.42
+Africa,Togo,2,3.49
+Africa,Togo,3,4.38
+Africa,Togo,4,4.19
+Africa,Togo,5,2.86
+Africa,Togo,6,3.36
+Africa,Tunisia,1,0.0
+Africa,Tunisia,2,0.0
+Africa,Tunisia,3,0.0
+Africa,Tunisia,4,11.5
+Africa,Tunisia,5,7.31
+Africa,Tunisia,6,9.06
+Africa,Uganda,1,1.67
+Africa,Uganda,2,1.05
+Africa,Uganda,3,1.39
+Africa,Uganda,4,1.45
+Africa,Uganda,5,1.43
+Africa,Uganda,6,4.45
+Africa,Zambia,1,16.45
+Africa,Zambia,2,8.93
+Africa,Zambia,3,8.7
+Africa,Zambia,4,7.1
+Africa,Zambia,5,7.53
+Africa,Zambia,6,16.77
+Africa,Zimbabwe,1,6.74
+Africa,Zimbabwe,2,4.2
+Africa,Zimbabwe,3,3.75
+Africa,Zimbabwe,4,3.66
+Africa,Zimbabwe,5,3.83
+Africa,Zimbabwe,6,6.8
+Asia,Afghanistan,1,0.0
+Asia,Afghanistan,2,0.0
+Asia,Afghanistan,3,0.0
+Asia,Afghanistan,4,0.0
+Asia,Afghanistan,5,0.0
+Asia,Afghanistan,6,0.0
+Asia,Armenia,1,14.21
+Asia,Armenia,2,27.22
+Asia,Armenia,3,41.93
+Asia,Armenia,4,43.75
+Asia,Armenia,5,31.33
+Asia,Armenia,6,34.0
+Asia,Azerbaijan,1,0.0
+Asia,Azerbaijan,2,0.0
+Asia,Azerbaijan,3,0.0
+Asia,Azerbaijan,4,2.25
+Asia,Azerbaijan,5,25.35
+Asia,Azerbaijan,6,23.51
+Asia,Bahrain,1,197.76
+Asia,Bahrain,2,154.49
+Asia,Bahrain,3,132.61
+Asia,Bahrain,4,265.95
+Asia,Bahrain,5,312.92
+Asia,Bahrain,6,228.92
+Asia,Bangladesh,1,2.56
+Asia,Bangladesh,2,2.37
+Asia,Bangladesh,3,3.77
+Asia,Bangladesh,4,4.8
+Asia,Bangladesh,5,2.82
+Asia,Bangladesh,6,4.01
+Asia,Bhutan,1,247.24
+Asia,Bhutan,2,69.42
+Asia,Bhutan,3,74.18
+Asia,Bhutan,4,77.59
+Asia,Bhutan,5,77.75
+Asia,Bhutan,6,0.0
+Asia,Brunei,1,0.0
+Asia,Brunei,2,0.0
+Asia,Brunei,3,0.0
+Asia,Brunei,4,0.0
+Asia,Brunei,5,0.0
+Asia,Brunei,6,0.0
+Asia,Cambodia,1,0.0
+Asia,Cambodia,2,0.0
+Asia,Cambodia,3,0.0
+Asia,Cambodia,4,0.0
+Asia,Cambodia,5,2.28
+Asia,Cambodia,6,11.87
+Asia,China,1,0.0
+Asia,China,2,0.0
+Asia,China,3,0.0
+Asia,China,4,0.0
+Asia,China,5,0.0
+Asia,China,6,0.0
+Asia,Georgia,1,0.0
+Asia,Georgia,2,0.0
+Asia,Georgia,3,0.0
+Asia,Georgia,4,64.0
+Asia,Georgia,5,31.17
+Asia,Georgia,6,80.41
+Asia,Hong Kong,1,0.0
+Asia,Hong Kong,2,0.0
+Asia,Hong Kong,3,0.0
+Asia,Hong Kong,4,0.0
+Asia,Hong Kong,5,0.0
+Asia,Hong Kong,6,0.0
+Asia,India,1,17.59
+Asia,India,2,14.07
+Asia,India,3,17.33
+Asia,India,4,30.65
+Asia,India,5,39.54
+Asia,India,6,46.79
+Asia,Indonesia,1,4.08
+Asia,Indonesia,2,2.34
+Asia,Indonesia,3,1.28
+Asia,Indonesia,4,4.17
+Asia,Indonesia,5,4.82
+Asia,Indonesia,6,6.35
+Asia,Iran,1,8.23
+Asia,Iran,2,3.24
+Asia,Iran,3,3.19
+Asia,Iran,4,5.68
+Asia,Iran,5,0.0
+Asia,Iran,6,1.46
+Asia,Iraq,1,9.14
+Asia,Iraq,2,27.66
+Asia,Iraq,3,18.3
+Asia,Iraq,4,23.43
+Asia,Iraq,5,22.95
+Asia,Iraq,6,22.92
+Asia,Israel,1,317.82
+Asia,Israel,2,206.08
+Asia,Israel,3,217.35
+Asia,Israel,4,118.58
+Asia,Israel,5,82.39
+Asia,Israel,6,81.45
+Asia,Japan,1,14.93
+Asia,Japan,2,10.81
+Asia,Japan,3,12.34
+Asia,Japan,4,15.32
+Asia,Japan,5,19.79
+Asia,Japan,6,15.36
+Asia,Jordan,1,67.28
+Asia,Jordan,2,71.49
+Asia,Jordan,3,128.34
+Asia,Jordan,4,76.63
+Asia,Jordan,5,54.1
+Asia,Jordan,6,0.0
+Asia,Kazakhstan,1,56.85
+Asia,Kazakhstan,2,50.67
+Asia,Kazakhstan,3,57.28
+Asia,Kazakhstan,4,80.04
+Asia,Kazakhstan,5,69.84
+Asia,Kazakhstan,6,17.18
+Asia,Kuwait,1,63.5
+Asia,Kuwait,2,58.9
+Asia,Kuwait,3,62.81
+Asia,Kuwait,4,62.41
+Asia,Kuwait,5,64.94
+Asia,Kuwait,6,85.2
+Asia,Kyrgyzstan,1,0.0
+Asia,Kyrgyzstan,2,0.0
+Asia,Kyrgyzstan,3,0.0
+Asia,Kyrgyzstan,4,0.0
+Asia,Kyrgyzstan,5,0.0
+Asia,Kyrgyzstan,6,0.0
+Asia,Laos,1,0.0
+Asia,Laos,2,0.0
+Asia,Laos,3,0.0
+Asia,Laos,4,0.0
+Asia,Laos,5,1.63
+Asia,Laos,6,4.2
+Asia,Lebanon,1,0.0
+Asia,Lebanon,2,0.0
+Asia,Lebanon,3,0.0
+Asia,Lebanon,4,0.0
+Asia,Lebanon,5,30.61
+Asia,Lebanon,6,4.47
+Asia,Macao,2,0.0
+Asia,Macao,3,0.0
+Asia,Macao,4,0.0
+Asia,Macao,5,0.0
+Asia,Macao,6,0.0
+Asia,Malaysia,1,69.87
+Asia,Malaysia,2,59.54
+Asia,Malaysia,3,51.94
+Asia,Malaysia,4,60.33
+Asia,Malaysia,5,89.67
+Asia,Malaysia,6,80.57
+Asia,Maldives,1,158.98
+Asia,Maldives,2,209.38
+Asia,Maldives,3,230.76
+Asia,Maldives,4,172.74
+Asia,Maldives,5,268.44
+Asia,Maldives,6,261.95
+Asia,Mongolia,1,121.53
+Asia,Mongolia,2,224.89
+Asia,Mongolia,3,133.88
+Asia,Mongolia,4,118.31
+Asia,Mongolia,5,72.62
+Asia,Mongolia,6,93.28
+Asia,Myanmar,1,10.44
+Asia,Myanmar,2,1.83
+Asia,Myanmar,3,0.0
+Asia,Myanmar,4,0.0
+Asia,Myanmar,5,0.59
+Asia,Myanmar,6,2.04
+Asia,Nepal,1,4.31
+Asia,Nepal,2,3.08
+Asia,Nepal,3,3.66
+Asia,Nepal,4,6.31
+Asia,Nepal,5,17.95
+Asia,Nepal,6,9.64
+Asia,Northern Cyprus,1,0.0
+Asia,Northern Cyprus,2,0.0
+Asia,Northern Cyprus,3,0.0
+Asia,Northern Cyprus,4,0.0
+Asia,Northern Cyprus,5,0.0
+Asia,Northern Cyprus,6,0.0
+Asia,Oman,1,0.0
+Asia,Oman,2,0.0
+Asia,Oman,3,0.0
+Asia,Oman,4,0.0
+Asia,Oman,5,0.0
+Asia,Oman,6,0.0
+Asia,Pakistan,1,5.48
+Asia,Pakistan,2,3.28
+Asia,Pakistan,3,2.66
+Asia,Pakistan,4,6.17
+Asia,Pakistan,5,6.37
+Asia,Pakistan,6,5.86
+Asia,Palestine,1,23.53
+Asia,Palestine,2,28.89
+Asia,Palestine,3,49.65
+Asia,Palestine,4,38.39
+Asia,Palestine,5,15.57
+Asia,Palestine,6,13.85
+Asia,Philippines,1,9.08
+Asia,Philippines,2,8.19
+Asia,Philippines,3,12.44
+Asia,Philippines,4,14.15
+Asia,Philippines,5,13.75
+Asia,Philippines,6,13.59
+Asia,Qatar,1,47.17
+Asia,Qatar,2,51.04
+Asia,Qatar,3,67.09
+Asia,Qatar,4,54.76
+Asia,Qatar,5,41.19
+Asia,Qatar,6,48.15
+Asia,Saudi Arabia,1,37.11
+Asia,Saudi Arabia,2,37.38
+Asia,Saudi Arabia,3,42.55
+Asia,Saudi Arabia,4,50.51
+Asia,Saudi Arabia,5,66.16
+Asia,Saudi Arabia,6,76.48
+Asia,Singapore,1,0.0
+Asia,Singapore,2,0.0
+Asia,Singapore,3,0.0
+Asia,Singapore,4,0.0
+Asia,Singapore,5,0.0
+Asia,Singapore,6,0.0
+Asia,South Korea,1,28.18
+Asia,South Korea,2,15.32
+Asia,South Korea,3,9.81
+Asia,South Korea,4,20.42
+Asia,South Korea,5,16.91
+Asia,South Korea,6,16.21
+Asia,Sri Lanka,1,21.95
+Asia,Sri Lanka,2,18.17
+Asia,Sri Lanka,3,15.4
+Asia,Sri Lanka,4,15.2
+Asia,Sri Lanka,5,33.67
+Asia,Sri Lanka,6,26.22
+Asia,Syria,1,0.0
+Asia,Syria,2,0.0
+Asia,Syria,3,0.0
+Asia,Syria,4,0.0
+Asia,Syria,5,0.0
+Asia,Syria,6,0.0
+Asia,Taiwan,1,1.2
+Asia,Taiwan,2,0.79
+Asia,Taiwan,3,0.7
+Asia,Taiwan,4,0.76
+Asia,Taiwan,5,13.81
+Asia,Taiwan,6,35.57
+Asia,Tajikistan,1,0.0
+Asia,Tajikistan,2,0.0
+Asia,Tajikistan,3,0.0
+Asia,Tajikistan,4,0.0
+Asia,Tajikistan,5,0.0
+Asia,Tajikistan,6,0.0
+Asia,Thailand,1,10.4
+Asia,Thailand,2,6.2
+Asia,Thailand,3,7.04
+Asia,Thailand,4,21.04
+Asia,Thailand,5,27.98
+Asia,Thailand,6,26.5
+Asia,Timor,1,0.0
+Asia,Timor,2,0.0
+Asia,Timor,3,0.0
+Asia,Timor,4,0.0
+Asia,Timor,5,0.0
+Asia,Timor,6,0.0
+Asia,Turkey,1,60.3
+Asia,Turkey,2,41.69
+Asia,Turkey,3,63.54
+Asia,Turkey,4,102.12
+Asia,Turkey,5,80.87
+Asia,Turkey,6,78.18
+Asia,Turkmenistan,2,0.0
+Asia,United Arab Emirates,1,487.85
+Asia,United Arab Emirates,2,490.53
+Asia,United Arab Emirates,3,693.96
+Asia,United Arab Emirates,4,651.59
+Asia,United Arab Emirates,5,623.57
+Asia,United Arab Emirates,6,740.34
+Asia,Uzbekistan,1,0.0
+Asia,Uzbekistan,2,0.0
+Asia,Uzbekistan,3,0.0
+Asia,Uzbekistan,4,0.0
+Asia,Uzbekistan,5,0.0
+Asia,Uzbekistan,6,0.0
+Asia,Vietnam,1,0.0
+Asia,Vietnam,2,0.0
+Asia,Vietnam,3,0.0
+Asia,Vietnam,4,0.0
+Asia,Vietnam,5,3.83
+Asia,Vietnam,6,14.87
+Asia,Yemen,1,0.0
+Asia,Yemen,2,0.0
+Asia,Yemen,3,0.0
+Asia,Yemen,4,0.0
+Asia,Yemen,5,0.0
+Asia,Yemen,6,0.0
+Europe,Albania,1,33.27
+Europe,Albania,2,35.26
+Europe,Albania,3,32.04
+Europe,Albania,4,27.55
+Europe,Albania,5,29.31
+Europe,Albania,6,12.84
+Europe,Andorra,1,0.0
+Europe,Andorra,2,0.0
+Europe,Andorra,3,0.0
+Europe,Andorra,4,0.0
+Europe,Andorra,5,0.0
+Europe,Andorra,6,0.0
+Europe,Austria,1,616.54
+Europe,Austria,2,613.95
+Europe,Austria,3,944.81
+Europe,Austria,4,933.44
+Europe,Austria,5,1092.91
+Europe,Austria,6,1472.97
+Europe,Belarus,1,0.0
+Europe,Belarus,2,0.0
+Europe,Belarus,3,2.07
+Europe,Belarus,4,2.05
+Europe,Belarus,5,2.12
+Europe,Belarus,6,0.0
+Europe,Belgium,1,114.41
+Europe,Belgium,2,103.34
+Europe,Belgium,3,151.29
+Europe,Belgium,4,116.51
+Europe,Belgium,5,123.79
+Europe,Belgium,6,112.4
+Europe,Bosnia and Herzegovina,1,16.6
+Europe,Bosnia and Herzegovina,2,11.25
+Europe,Bosnia and Herzegovina,3,28.84
+Europe,Bosnia and Herzegovina,4,23.85
+Europe,Bosnia and Herzegovina,5,11.94
+Europe,Bosnia and Herzegovina,6,10.48
+Europe,Bulgaria,1,34.81
+Europe,Bulgaria,2,28.91
+Europe,Bulgaria,3,27.97
+Europe,Bulgaria,4,55.53
+Europe,Bulgaria,5,45.15
+Europe,Bulgaria,6,51.94
+Europe,Croatia,1,42.12
+Europe,Croatia,2,24.16
+Europe,Croatia,3,21.45
+Europe,Croatia,4,52.55
+Europe,Croatia,5,51.26
+Europe,Croatia,6,33.1
+Europe,Cyprus,1,412.76
+Europe,Cyprus,2,996.29
+Europe,Cyprus,3,1485.6
+Europe,Cyprus,4,1781.73
+Europe,Cyprus,5,1994.3
+Europe,Cyprus,6,1346.19
+Europe,Czechia,1,146.56
+Europe,Czechia,2,176.75
+Europe,Czechia,3,491.69
+Europe,Czechia,4,530.04
+Europe,Czechia,5,593.09
+Europe,Czechia,6,424.56
+Europe,Denmark,1,498.1
+Europe,Denmark,2,599.58
+Europe,Denmark,3,868.8
+Europe,Denmark,4,898.06
+Europe,Denmark,5,905.79
+Europe,Denmark,6,500.59
+Europe,Estonia,1,109.79
+Europe,Estonia,2,118.55
+Europe,Estonia,3,160.02
+Europe,Estonia,4,109.74
+Europe,Estonia,5,98.26
+Europe,Estonia,6,77.3
+Europe,Faeroe Islands,1,0.0
+Europe,Faeroe Islands,2,0.0
+Europe,Faeroe Islands,3,0.0
+Europe,Faeroe Islands,4,0.0
+Europe,Faeroe Islands,5,0.0
+Europe,Faeroe Islands,6,0.0
+Europe,Finland,1,66.46
+Europe,Finland,2,89.93
+Europe,Finland,3,117.44
+Europe,Finland,4,92.53
+Europe,Finland,5,95.23
+Europe,Finland,6,73.86
+Europe,France,1,125.46
+Europe,France,2,127.74
+Europe,France,3,181.05
+Europe,France,4,158.28
+Europe,France,5,143.3
+Europe,France,6,119.37
+Europe,Germany,1,0.0
+Europe,Germany,2,0.0
+Europe,Germany,3,0.0
+Europe,Germany,4,0.0
+Europe,Germany,5,0.0
+Europe,Germany,6,0.0
+Europe,Gibraltar,1,0.0
+Europe,Gibraltar,2,0.0
+Europe,Gibraltar,3,0.0
+Europe,Gibraltar,4,0.0
+Europe,Gibraltar,5,0.0
+Europe,Gibraltar,6,0.0
+Europe,Greece,1,77.04
+Europe,Greece,2,101.68
+Europe,Greece,3,125.33
+Europe,Greece,4,140.71
+Europe,Greece,5,116.29
+Europe,Greece,6,90.78
+Europe,Guernsey,1,0.0
+Europe,Guernsey,2,0.0
+Europe,Guernsey,3,0.0
+Europe,Guernsey,4,0.0
+Europe,Guernsey,5,0.0
+Europe,Guernsey,6,0.0
+Europe,Hungary,1,49.85
+Europe,Hungary,2,52.14
+Europe,Hungary,3,98.48
+Europe,Hungary,4,79.34
+Europe,Hungary,5,46.85
+Europe,Hungary,6,31.72
+Europe,Iceland,1,63.79
+Europe,Iceland,2,43.04
+Europe,Iceland,3,92.44
+Europe,Iceland,4,117.95
+Europe,Iceland,5,113.17
+Europe,Iceland,6,104.36
+Europe,Ireland,1,141.57
+Europe,Ireland,2,91.57
+Europe,Ireland,3,94.21
+Europe,Ireland,4,98.06
+Europe,Ireland,5,111.04
+Europe,Ireland,6,98.22
+Europe,Isle of Man,1,0.0
+Europe,Isle of Man,2,0.0
+Europe,Isle of Man,3,0.0
+Europe,Isle of Man,4,0.0
+Europe,Isle of Man,5,0.0
+Europe,Isle of Man,6,0.0
+Europe,Italy,1,100.52
+Europe,Italy,2,123.69
+Europe,Italy,3,161.85
+Europe,Italy,4,143.74
+Europe,Italy,5,125.76
+Europe,Italy,6,89.63
+Europe,Jersey,3,0.0
+Europe,Jersey,4,0.0
+Europe,Jersey,5,0.0
+Europe,Jersey,6,0.0
+Europe,Kosovo,1,0.0
+Europe,Kosovo,2,0.0
+Europe,Kosovo,3,0.0
+Europe,Kosovo,4,0.0
+Europe,Kosovo,5,1.39
+Europe,Kosovo,6,11.4
+Europe,Latvia,1,158.96
+Europe,Latvia,2,146.81
+Europe,Latvia,3,209.78
+Europe,Latvia,4,217.64
+Europe,Latvia,5,196.24
+Europe,Latvia,6,130.01
+Europe,Liechtenstein,1,98.04
+Europe,Liechtenstein,2,95.1
+Europe,Liechtenstein,3,142.2
+Europe,Liechtenstein,4,181.13
+Europe,Liechtenstein,5,158.33
+Europe,Liechtenstein,6,122.82
+Europe,Lithuania,1,107.49
+Europe,Lithuania,2,73.42
+Europe,Lithuania,3,97.66
+Europe,Lithuania,4,186.4
+Europe,Lithuania,5,227.63
+Europe,Lithuania,6,148.97
+Europe,Luxembourg,1,338.81
+Europe,Luxembourg,2,402.22
+Europe,Luxembourg,3,456.96
+Europe,Luxembourg,4,410.81
+Europe,Luxembourg,5,365.11
+Europe,Luxembourg,6,291.28
+Europe,Malta,1,190.11
+Europe,Malta,2,166.46
+Europe,Malta,3,215.91
+Europe,Malta,4,112.6
+Europe,Malta,5,115.6
+Europe,Malta,6,114.38
+Europe,Moldova,1,0.0
+Europe,Moldova,2,0.0
+Europe,Moldova,3,0.0
+Europe,Moldova,4,0.0
+Europe,Moldova,5,6.03
+Europe,Moldova,6,2.01
+Europe,Monaco,1,0.0
+Europe,Monaco,2,0.0
+Europe,Monaco,3,0.0
+Europe,Monaco,4,0.0
+Europe,Monaco,5,0.0
+Europe,Monaco,6,0.0
+Europe,Montenegro,1,0.0
+Europe,Montenegro,2,0.0
+Europe,Montenegro,3,0.0
+Europe,Montenegro,4,0.0
+Europe,Montenegro,5,0.0
+Europe,Montenegro,6,0.0
+Europe,Netherlands,1,0.0
+Europe,Netherlands,2,0.0
+Europe,Netherlands,3,0.0
+Europe,Netherlands,4,0.0
+Europe,Netherlands,5,0.0
+Europe,Netherlands,6,0.0
+Europe,North Macedonia,1,26.19
+Europe,North Macedonia,2,32.04
+Europe,North Macedonia,3,50.55
+Europe,North Macedonia,4,45.36
+Europe,North Macedonia,5,2.7
+Europe,North Macedonia,6,8.32
+Europe,Norway,1,107.74
+Europe,Norway,2,82.75
+Europe,Norway,3,149.7
+Europe,Norway,4,99.72
+Europe,Norway,5,101.48
+Europe,Norway,6,85.04
+Europe,Poland,1,35.05
+Europe,Poland,2,32.16
+Europe,Poland,3,56.84
+Europe,Poland,4,59.77
+Europe,Poland,5,42.81
+Europe,Poland,6,36.19
+Europe,Portugal,1,161.32
+Europe,Portugal,2,89.99
+Europe,Portugal,3,85.21
+Europe,Portugal,4,146.05
+Europe,Portugal,5,121.67
+Europe,Portugal,6,149.94
+Europe,Romania,1,12.19
+Europe,Romania,2,0.0
+Europe,Romania,3,2.02
+Europe,Romania,4,5.89
+Europe,Romania,5,0.0
+Europe,Romania,6,1.4
+Europe,Russia,1,74.48
+Europe,Russia,2,42.88
+Europe,Russia,3,30.87
+Europe,Russia,4,47.47
+Europe,Russia,5,59.61
+Europe,Russia,6,79.29
+Europe,San Marino,1,0.0
+Europe,San Marino,2,0.0
+Europe,San Marino,3,0.0
+Europe,San Marino,4,0.0
+Europe,San Marino,5,0.0
+Europe,San Marino,6,0.0
+Europe,Serbia,1,46.51
+Europe,Serbia,2,46.76
+Europe,Serbia,3,70.05
+Europe,Serbia,4,60.06
+Europe,Serbia,5,45.41
+Europe,Serbia,6,37.89
+Europe,Slovakia,1,828.67
+Europe,Slovakia,2,1509.58
+Europe,Slovakia,3,1785.47
+Europe,Slovakia,4,1622.6
+Europe,Slovakia,5,712.18
+Europe,Slovakia,6,300.96
+Europe,Slovenia,1,60.84
+Europe,Slovenia,2,52.3
+Europe,Slovenia,3,72.64
+Europe,Slovenia,4,54.92
+Europe,Slovenia,5,49.84
+Europe,Slovenia,6,32.11
+Europe,Spain,1,0.0
+Europe,Spain,2,0.0
+Europe,Spain,3,0.0
+Europe,Spain,4,0.0
+Europe,Spain,5,0.0
+Europe,Spain,6,0.0
+Europe,Sweden,1,89.21
+Europe,Sweden,2,87.71
+Europe,Sweden,3,130.33
+Europe,Sweden,4,139.04
+Europe,Sweden,5,124.6
+Europe,Sweden,6,61.13
+Europe,Switzerland,1,78.11
+Europe,Switzerland,2,82.77
+Europe,Switzerland,3,113.79
+Europe,Switzerland,4,98.0
+Europe,Switzerland,5,87.71
+Europe,Switzerland,6,69.83
+Europe,Ukraine,1,6.09
+Europe,Ukraine,2,7.1
+Europe,Ukraine,3,12.62
+Europe,Ukraine,4,27.84
+Europe,Ukraine,5,17.52
+Europe,Ukraine,6,15.17
+Europe,United Kingdom,1,246.11
+Europe,United Kingdom,2,233.63
+Europe,United Kingdom,3,498.42
+Europe,United Kingdom,4,386.83
+Europe,United Kingdom,5,383.28
+Europe,United Kingdom,6,392.24
+Europe,Vatican,1,0.0
+Europe,Vatican,2,0.0
+Europe,Vatican,3,0.0
+Europe,Vatican,4,0.0
+Europe,Vatican,5,0.0
+Europe,Vatican,6,0.0
+North America,Anguilla,2,0.0
+North America,Anguilla,3,0.0
+North America,Anguilla,4,0.0
+North America,Anguilla,5,0.0
+North America,Anguilla,6,0.0
+North America,Antigua and Barbuda,1,0.0
+North America,Antigua and Barbuda,2,0.0
+North America,Antigua and Barbuda,3,0.0
+North America,Antigua and Barbuda,4,0.0
+North America,Antigua and Barbuda,5,0.0
+North America,Antigua and Barbuda,6,0.0
+North America,Aruba,3,0.0
+North America,Aruba,4,0.0
+North America,Aruba,5,0.0
+North America,Aruba,6,0.0
+North America,Bahamas,1,0.0
+North America,Bahamas,2,0.0
+North America,Bahamas,3,0.0
+North America,Bahamas,4,0.0
+North America,Bahamas,5,0.0
+North America,Bahamas,6,0.0
+North America,Barbados,1,0.0
+North America,Barbados,2,0.0
+North America,Barbados,3,0.0
+North America,Barbados,4,0.0
+North America,Barbados,5,0.0
+North America,Barbados,6,0.0
+North America,Belize,1,0.0
+North America,Belize,2,0.0
+North America,Belize,3,0.0
+North America,Belize,4,0.0
+North America,Belize,5,1.59
+North America,Belize,6,2.3
+North America,Bermuda,1,0.0
+North America,Bermuda,2,0.0
+North America,Bermuda,3,0.0
+North America,Bermuda,4,0.0
+North America,Bermuda,5,0.0
+North America,Bermuda,6,0.0
+North America,Bonaire Sint Eustatius and Saba,4,0.0
+North America,Bonaire Sint Eustatius and Saba,5,0.0
+North America,Bonaire Sint Eustatius and Saba,6,0.0
+North America,British Virgin Islands,5,0.0
+North America,British Virgin Islands,6,0.0
+North America,Canada,1,95.32
+North America,Canada,2,74.88
+North America,Canada,3,84.07
+North America,Canada,4,100.74
+North America,Canada,5,86.98
+North America,Canada,6,51.96
+North America,Cayman Islands,1,0.0
+North America,Cayman Islands,2,0.0
+North America,Cayman Islands,3,0.0
+North America,Cayman Islands,4,0.0
+North America,Cayman Islands,5,0.0
+North America,Cayman Islands,6,0.0
+North America,Costa Rica,1,14.61
+North America,Costa Rica,2,14.99
+North America,Costa Rica,3,19.8
+North America,Costa Rica,4,27.31
+North America,Costa Rica,5,39.23
+North America,Costa Rica,6,42.66
+North America,Cuba,1,36.62
+North America,Cuba,2,44.75
+North America,Cuba,3,52.47
+North America,Cuba,4,57.4
+North America,Cuba,5,61.37
+North America,Cuba,6,70.69
+North America,Curacao,3,0.0
+North America,Curacao,4,0.0
+North America,Curacao,5,0.0
+North America,Curacao,6,0.0
+North America,Dominica,1,0.0
+North America,Dominica,2,0.0
+North America,Dominica,3,0.0
+North America,Dominica,4,0.0
+North America,Dominica,5,0.0
+North America,Dominica,6,0.0
+North America,Dominican Republic,1,16.02
+North America,Dominican Republic,2,13.49
+North America,Dominican Republic,3,1.5
+North America,Dominican Republic,4,0.62
+North America,Dominican Republic,5,1.52
+North America,Dominican Republic,6,1.74
+North America,El Salvador,1,11.37
+North America,El Salvador,2,10.53
+North America,El Salvador,3,11.9
+North America,El Salvador,4,7.75
+North America,El Salvador,5,0.0
+North America,El Salvador,6,0.0
+North America,Greenland,1,0.0
+North America,Greenland,2,0.0
+North America,Greenland,3,0.0
+North America,Greenland,4,0.0
+North America,Greenland,5,0.0
+North America,Greenland,6,0.0
+North America,Grenada,1,0.0
+North America,Grenada,2,0.0
+North America,Grenada,3,0.0
+North America,Grenada,4,0.0
+North America,Grenada,5,0.0
+North America,Grenada,6,0.0
+North America,Guatemala,1,8.3
+North America,Guatemala,2,7.88
+North America,Guatemala,3,8.13
+North America,Guatemala,4,11.2
+North America,Guatemala,5,8.67
+North America,Guatemala,6,9.42
+North America,Haiti,1,0.0
+North America,Haiti,2,0.0
+North America,Haiti,3,0.0
+North America,Haiti,4,0.0
+North America,Haiti,5,0.0
+North America,Haiti,6,0.0
+North America,Honduras,1,0.0
+North America,Honduras,2,0.0
+North America,Honduras,3,0.0
+North America,Honduras,4,0.0
+North America,Honduras,5,0.0
+North America,Honduras,6,0.0
+North America,Jamaica,1,0.28
+North America,Jamaica,2,0.81
+North America,Jamaica,3,2.61
+North America,Jamaica,4,4.4
+North America,Jamaica,5,0.0
+North America,Jamaica,6,8.56
+North America,Mexico,1,8.24
+North America,Mexico,2,5.27
+North America,Mexico,3,4.64
+North America,Mexico,4,3.82
+North America,Mexico,5,2.97
+North America,Mexico,6,3.44
+North America,Montserrat,2,0.0
+North America,Montserrat,3,0.0
+North America,Montserrat,4,0.0
+North America,Montserrat,5,0.0
+North America,Montserrat,6,0.0
+North America,Nicaragua,1,0.0
+North America,Nicaragua,2,0.0
+North America,Nicaragua,3,0.0
+North America,Nicaragua,4,0.0
+North America,Nicaragua,5,0.0
+North America,Nicaragua,6,0.0
+North America,Panama,1,85.52
+North America,Panama,2,51.99
+North America,Panama,3,56.26
+North America,Panama,4,54.71
+North America,Panama,5,54.93
+North America,Panama,6,73.04
+North America,Saint Kitts and Nevis,1,0.0
+North America,Saint Kitts and Nevis,2,0.0
+North America,Saint Kitts and Nevis,3,0.0
+North America,Saint Kitts and Nevis,4,0.0
+North America,Saint Kitts and Nevis,5,0.0
+North America,Saint Kitts and Nevis,6,0.0
+North America,Saint Lucia,1,0.0
+North America,Saint Lucia,2,0.0
+North America,Saint Lucia,3,0.0
+North America,Saint Lucia,4,0.0
+North America,Saint Lucia,5,0.0
+North America,Saint Lucia,6,0.0
+North America,Saint Vincent and the Grenadines,1,0.0
+North America,Saint Vincent and the Grenadines,2,0.0
+North America,Saint Vincent and the Grenadines,3,0.0
+North America,Saint Vincent and the Grenadines,4,0.0
+North America,Saint Vincent and the Grenadines,5,0.0
+North America,Saint Vincent and the Grenadines,6,0.0
+North America,Sint Maarten (Dutch part),5,0.0
+North America,Sint Maarten (Dutch part),6,0.0
+North America,Trinidad and Tobago,1,7.78
+North America,Trinidad and Tobago,2,8.68
+North America,Trinidad and Tobago,3,9.75
+North America,Trinidad and Tobago,4,13.92
+North America,Trinidad and Tobago,5,35.38
+North America,Trinidad and Tobago,6,35.51
+North America,Turks and Caicos Islands,1,0.0
+North America,Turks and Caicos Islands,2,0.0
+North America,Turks and Caicos Islands,3,0.0
+North America,Turks and Caicos Islands,4,0.0
+North America,Turks and Caicos Islands,5,0.0
+North America,Turks and Caicos Islands,6,0.0
+North America,United States,1,155.26
+North America,United States,2,110.29
+North America,United States,3,116.91
+North America,United States,4,112.96
+North America,United States,5,84.94
+North America,United States,6,61.02
+Oceania,Australia,1,30.05
+Oceania,Australia,2,25.21
+Oceania,Australia,3,15.91
+Oceania,Australia,4,26.71
+Oceania,Australia,5,29.68
+Oceania,Australia,6,48.61
+Oceania,Cook Islands,5,0.0
+Oceania,Cook Islands,6,0.0
+Oceania,Fiji,1,4.3
+Oceania,Fiji,2,4.08
+Oceania,Fiji,3,8.25
+Oceania,Fiji,4,14.5
+Oceania,Fiji,5,65.81
+Oceania,Fiji,6,105.17
+Oceania,French Polynesia,2,0.0
+Oceania,French Polynesia,3,0.0
+Oceania,French Polynesia,4,0.0
+Oceania,French Polynesia,5,0.0
+Oceania,French Polynesia,6,0.0
+Oceania,Kiribati,5,0.0
+Oceania,Kiribati,6,0.0
+Oceania,Marshall Islands,1,0.0
+Oceania,Marshall Islands,2,0.0
+Oceania,Marshall Islands,3,0.0
+Oceania,Marshall Islands,4,0.0
+Oceania,Marshall Islands,5,0.0
+Oceania,Marshall Islands,6,0.0
+Oceania,Micronesia (country),1,0.0
+Oceania,Micronesia (country),2,0.0
+Oceania,Micronesia (country),3,0.0
+Oceania,Micronesia (country),4,0.0
+Oceania,Micronesia (country),5,0.0
+Oceania,Micronesia (country),6,0.0
+Oceania,Nauru,4,0.0
+Oceania,Nauru,5,0.0
+Oceania,Nauru,6,0.0
+Oceania,New Caledonia,2,0.0
+Oceania,New Caledonia,3,0.0
+Oceania,New Caledonia,4,0.0
+Oceania,New Caledonia,5,0.0
+Oceania,New Caledonia,6,0.0
+Oceania,New Zealand,1,10.21
+Oceania,New Zealand,2,29.84
+Oceania,New Zealand,3,22.15
+Oceania,New Zealand,4,16.92
+Oceania,New Zealand,5,16.39
+Oceania,New Zealand,6,24.57
+Oceania,Niue,6,0.0
+Oceania,Papua New Guinea,1,0.0
+Oceania,Papua New Guinea,2,0.0
+Oceania,Papua New Guinea,3,0.0
+Oceania,Papua New Guinea,4,0.0
+Oceania,Papua New Guinea,5,0.0
+Oceania,Papua New Guinea,6,0.0
+Oceania,Pitcairn,6,0.0
+Oceania,Samoa,1,0.0
+Oceania,Samoa,2,0.0
+Oceania,Samoa,3,0.0
+Oceania,Samoa,4,0.0
+Oceania,Samoa,5,0.0
+Oceania,Samoa,6,0.0
+Oceania,Solomon Islands,1,0.0
+Oceania,Solomon Islands,2,0.0
+Oceania,Solomon Islands,3,0.0
+Oceania,Solomon Islands,4,0.0
+Oceania,Solomon Islands,5,0.0
+Oceania,Solomon Islands,6,0.0
+Oceania,Tokelau,6,0.0
+Oceania,Tonga,4,0.0
+Oceania,Tonga,5,0.0
+Oceania,Tonga,6,0.0
+Oceania,Tuvalu,4,0.0
+Oceania,Tuvalu,5,0.0
+Oceania,Tuvalu,6,0.0
+Oceania,Vanuatu,1,0.0
+Oceania,Vanuatu,2,0.0
+Oceania,Vanuatu,3,0.0
+Oceania,Vanuatu,4,0.0
+Oceania,Vanuatu,5,0.0
+Oceania,Vanuatu,6,0.0
+Oceania,Wallis and Futuna,3,0.0
+Oceania,Wallis and Futuna,4,0.0
+Oceania,Wallis and Futuna,5,0.0
+Oceania,Wallis and Futuna,6,0.0
+South America,Argentina,1,30.49
+South America,Argentina,2,27.5
+South America,Argentina,3,31.5
+South America,Argentina,4,53.37
+South America,Argentina,5,60.21
+South America,Argentina,6,56.98
+South America,Bolivia,1,12.36
+South America,Bolivia,2,13.38
+South America,Bolivia,3,13.45
+South America,Bolivia,4,20.41
+South America,Bolivia,5,25.01
+South America,Bolivia,6,23.44
+South America,Brazil,1,0.0
+South America,Brazil,2,0.0
+South America,Brazil,3,0.0
+South America,Brazil,4,0.0
+South America,Brazil,5,0.0
+South America,Brazil,6,0.0
+South America,Chile,1,82.11
+South America,Chile,2,69.63
+South America,Chile,3,95.89
+South America,Chile,4,95.9
+South America,Chile,5,92.31
+South America,Chile,6,99.62
+South America,Colombia,1,38.1
+South America,Colombia,2,26.62
+South America,Colombia,3,24.82
+South America,Colombia,4,40.32
+South America,Colombia,5,42.98
+South America,Colombia,6,57.01
+South America,Ecuador,1,6.78
+South America,Ecuador,2,6.7
+South America,Ecuador,3,7.43
+South America,Ecuador,4,7.74
+South America,Ecuador,5,7.97
+South America,Ecuador,6,6.78
+South America,Falkland Islands,2,0.0
+South America,Falkland Islands,3,0.0
+South America,Falkland Islands,4,0.0
+South America,Guyana,1,0.0
+South America,Guyana,2,0.0
+South America,Guyana,3,0.0
+South America,Guyana,4,0.0
+South America,Guyana,5,0.0
+South America,Guyana,6,0.0
+South America,Paraguay,1,12.78
+South America,Paraguay,2,13.71
+South America,Paraguay,3,21.69
+South America,Paraguay,4,25.26
+South America,Paraguay,5,28.06
+South America,Paraguay,6,32.1
+South America,Peru,1,16.12
+South America,Peru,2,13.78
+South America,Peru,3,14.6
+South America,Peru,4,14.57
+South America,Peru,5,12.23
+South America,Peru,6,9.95
+South America,Suriname,1,0.0
+South America,Suriname,2,0.0
+South America,Suriname,3,0.0
+South America,Suriname,4,0.0
+South America,Suriname,5,0.0
+South America,Suriname,6,0.0
+South America,Uruguay,1,48.57
+South America,Uruguay,2,26.92
+South America,Uruguay,3,48.81
+South America,Uruguay,4,75.0
+South America,Uruguay,5,85.22
+South America,Uruguay,6,108.99
+South America,Venezuela,1,0.0
+South America,Venezuela,2,0.0
+South America,Venezuela,3,0.0
+South America,Venezuela,4,0.0
+South America,Venezuela,5,0.0
+South America,Venezuela,6,0.0
